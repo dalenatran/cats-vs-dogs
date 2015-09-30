@@ -51,9 +51,10 @@ table {
 
 <style>
 
-h2 { color:black;
+	h2 { color:black;
 	font-family: helvetica;
 	}
+	
   li {
     list-style:none;
     float:left;
@@ -64,7 +65,7 @@ h2 { color:black;
     text-transform:uppercase;
     font-family:Helvetica;
   }
-  p {font-family: helvetica;
+  p {font-family: garamond;
 	  color: darkgrey;}
 
 </style>
